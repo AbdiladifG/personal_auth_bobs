@@ -1,3 +1,9 @@
+## Bob's Burgers Fan Site
+A show I like to watch is Bob's Burgers, with this app users can favorite characters and even rank them based who they like more. Users can compete on which character gets the most likes and reaches the top.
+
+## How its made
+Tech used: CSS, JavaScript, EJS, Node.js, Express, MongoDB
+
 ## View Website
 1. Navigate to https://bobsburgersfan.up.railway.app/
 
